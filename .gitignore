@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Model artifacts and evaluation inputs that are not part of this repo
+model_2_fine_tune/model_2_artifacts/
+evaluation/solutions.csv
+
+# OS
+.DS_Store
+Thumbs.db
